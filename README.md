@@ -1,2 +1,2 @@
 # Python
-Ire subiendo todo los proyectos que vaya creando.
+Ire subiendo todo los proyectos
