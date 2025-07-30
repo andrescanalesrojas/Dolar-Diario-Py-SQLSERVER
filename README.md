@@ -1,2 +1,2 @@
 # Python
-Ire subiendo todo los proyectos
+Dolar Diario
